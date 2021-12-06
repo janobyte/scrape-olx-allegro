@@ -1,5 +1,6 @@
 # scrape-olx-allegro
 Web Scraping on the example of e-commerce.
 
-
-Jump into Web Scraping by scraping your local buy and sell webpage!
+Full project explained in full_paper.pdf file
+Full project explained in full_paper.pdf file
+Full project explained in full_paper.pdf file
