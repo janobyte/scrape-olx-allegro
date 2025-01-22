@@ -1,4 +1,4 @@
-# scrape-olx-allegro
+# Quick Overview
 Web Scraping on the example of e-commerce. Learn about robots.txt, selecting and extracting, webpage structure, avoiding bans and more!
 
 ## Full project explanation in full_paper.pdf file
